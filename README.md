@@ -1,5 +1,3 @@
-# Stack
-
 ### Self Hosting
 [![Proxmox](https://img.shields.io/badge/proxmox-E57000?logo=proxmox&logoColor=white&style=for-the-badge)](https://proxmox.com)
 [![Docker](https://img.shields.io/badge/docker-0db7ed?logo=docker&logoColor=white&style=for-the-badge)](https://docker.com)
