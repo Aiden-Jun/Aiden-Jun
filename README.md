@@ -11,7 +11,7 @@
 [![LinuxMint](https://img.shields.io/badge/linuxmint-3CB478?logo=linuxmint&logoColor=white&style=for-the-badge)](https://linuxmint.com)
 
 ### LLMs
-[![HuggingFace](https://img.shields.io/badge/huggingface-FF9D00?logo=huggingface&logoColor=white&style=for-the-badge)](https://huggingface.co)
+[![Transformers](https://img.shields.io/badge/transformers-FF9D00?logo=huggingface&logoColor=white&style=for-the-badge)](https://huggingface.co)
 [![Ollama](https://img.shields.io/badge/ollama-FFFFFF?logo=ollama&logoColor=black&style=for-the-badge)](https://ollama.com)
 
 ### Python
