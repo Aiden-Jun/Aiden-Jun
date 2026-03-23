@@ -26,7 +26,7 @@
 [![HTML5](https://img.shields.io/badge/html5-E34C26?logo=html5&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/css-663399?logo=css&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/docs/Web/CSS)
 [![NodeJS](https://img.shields.io/badge/node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)](https://nodejs.org)
-[![VueJS](https://img.shields.io/badge/vuejs-42B883?logo=vue.js&logoColor=white&style=for-the-badge)](https://vuejs.org)
+[![VueJS](https://img.shields.io/badge/vue.js-42B883?logo=vue.js&logoColor=white&style=for-the-badge)](https://vuejs.org)
 [![NextJS](https://img.shields.io/badge/next.js-663399?logo=next.js&logoColor=white&style=for-the-badge)](https://nextjs.org)
 [![React](https://img.shields.io/badge/react-61DBFB?logo=react&logoColor=black&style=for-the-badge)](https://react.dev)
 
